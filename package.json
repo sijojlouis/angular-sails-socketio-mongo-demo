@@ -4,7 +4,7 @@
     "version": "0.0.0-8",
     "description": "a Sails application",
     "dependencies": {
-        "sails": "0.8.895",
+        "sails": "1.4.0",
         "angular": "0.0.4",
         "coffee-script": "1.6.2",
         "hamljs": "0.6.1",
