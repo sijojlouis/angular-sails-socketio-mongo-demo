@@ -11,7 +11,7 @@
         "sails-mysql": "0.7.8",
         "sails-mongo": "0.0.3",
         "socket.io": "0.9.14",
-        "bcrypt": "0.7.5"
+        "bcrypt": "5.0.0"
     },
     "scripts": {
         "start": "node .app.js",
