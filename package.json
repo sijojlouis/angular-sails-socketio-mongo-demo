@@ -5,7 +5,7 @@
     "description": "a Sails application",
     "dependencies": {
         "sails": "0.8.895",
-        "angular": "0.0.4",
+        "angular": "1.8.1",
         "coffee-script": "1.6.2",
         "hamljs": "0.6.1",
         "sails-mysql": "0.7.8",
