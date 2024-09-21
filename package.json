@@ -10,7 +10,7 @@
         "hamljs": "0.6.1",
         "sails-mysql": "0.7.8",
         "sails-mongo": "0.0.3",
-        "socket.io": "0.9.14",
+        "socket.io": "2.5.0",
         "bcrypt": "5.0.0"
     },
     "scripts": {
